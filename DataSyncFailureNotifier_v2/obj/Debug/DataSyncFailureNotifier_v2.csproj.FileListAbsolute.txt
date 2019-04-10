@@ -1,0 +1,6 @@
+c:\users\pwu\documents\visual studio 2017\Projects\DataSyncFailureNotifier_v2\DataSyncFailureNotifier_v2\bin\Debug\DataSyncFailureNotifier_v2.exe.config
+c:\users\pwu\documents\visual studio 2017\Projects\DataSyncFailureNotifier_v2\DataSyncFailureNotifier_v2\bin\Debug\DataSyncFailureNotifier_v2.exe
+c:\users\pwu\documents\visual studio 2017\Projects\DataSyncFailureNotifier_v2\DataSyncFailureNotifier_v2\bin\Debug\DataSyncFailureNotifier_v2.pdb
+c:\users\pwu\documents\visual studio 2017\Projects\DataSyncFailureNotifier_v2\DataSyncFailureNotifier_v2\obj\Debug\DataSyncFailureNotifier_v2.csprojResolveAssemblyReference.cache
+c:\users\pwu\documents\visual studio 2017\Projects\DataSyncFailureNotifier_v2\DataSyncFailureNotifier_v2\obj\Debug\DataSyncFailureNotifier_v2.exe
+c:\users\pwu\documents\visual studio 2017\Projects\DataSyncFailureNotifier_v2\DataSyncFailureNotifier_v2\obj\Debug\DataSyncFailureNotifier_v2.pdb
